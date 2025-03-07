@@ -14,10 +14,8 @@ public class Principal {
 		Scanner lectura = null;
 		
 		///github
-		System.out.println("Estoy modificando mi proyecto");
-		int numero1 =100;
-		int result = numero1*20;
-		System.out.println(result);
+		System.out.println("se elimina 3 lineas de codigo");
+		
 		
 		
 		String modeloNuevo;
